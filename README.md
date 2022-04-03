@@ -51,7 +51,7 @@ The Best part Is All is Decentralized**
 ## Project Demo/Links
 Website 👉 [https://merklewrite.herokuapp.com/](https://merklewrite.herokuapp.com/)
 
-YouTube 👉 [https://youtu.be/G5iL6iS-axk](https://youtu.be/G5iL6iS-axk)
+YouTube 👉 [https://youtu.be/xJGgvZsDfNg](https://youtu.be/xJGgvZsDfNg)
 
 PPT 👉 [Presentation](https://www.canva.com/design/DAEThbyBQbM/L5MBeaH9wAyJgSb7dy-ZtA/view?utm_content=DAEThbyBQbM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
